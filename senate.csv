@@ -1,36 +1,36 @@
 short id,full name,state,party,canonical URL,url1,url2
 akaka,"Akaka, Daniel Kahikina",Hawaii,D,http://akaka.senate.gov/,gov.senate.www/~akaka,gov.senate.akaka
-alexander,"Alexander, Lamar",,,http://alexander.senate.gov/,gov.senate.alexander,
+alexander,"Alexander, Lamar",Tennessee,R,http://alexander.senate.gov/,gov.senate.alexander,
 allard,"Allard, Wayne",Colorado,R,http://allard.senate.gov/,gov.senate.www/~allard,gov.senate.allard
-allen,"Allen, George",,,http://allen.senate.gov/,gov.senate.www/~allen,gov.senate.allen
-baucus,"Baucus, Max",,,http://baucus.senate.gov/,gov.senate.baucus,gov.senate.www/~baucus
+allen,"Allen, George",Virginia,R,http://allen.senate.gov/,gov.senate.www/~allen,gov.senate.allen
+baucus,"Baucus, Max",Montana,D,http://baucus.senate.gov/,gov.senate.baucus,gov.senate.www/~baucus
 bayh,"Bayh, Evan",Indiana,D,http://bayh.senate.gov/index1.html,gov.senate.www/~bayh,gov.senate.bayh
-bennett,"Bennett, Bob",,,http://bennett.senate.gov/,gov.senate.www/~bennett,gov.senate.bennett
+bennett,"Bennett, Bob",Utah,R,http://bennett.senate.gov/,gov.senate.www/~bennett,gov.senate.bennett
 biden,"Biden, Joseph R.",Delaware,D,http://biden.senate.gov/,gov.senate.www/~biden,gov.senate.biden
-bingaman,"Bingaman, Jeff",,,http://bingaman.senate.gov/,gov.senate.www/~bingaman,gov.senate.bingaman
-bond,"Bond, Christopher S. ""Kit""",,,http://bond.senate.gov,gov.senate.bond,
+bingaman,"Bingaman, Jeff",New Mexico,D,http://bingaman.senate.gov/,gov.senate.www/~bingaman,gov.senate.bingaman
+bond,"Bond, Christopher S. ""Kit""",Missouri,R,http://bond.senate.gov,gov.senate.bond,
 boxer,"Boxer, Barbara",California,D,http://boxer.senate.gov/,gov.senate.www/~boxer,gov.senate.boxer
-breaux,"Breaux, John",,,http://breaux.senate.gov/,gov.senate.www/~breaux,gov.senate.breaux
+breaux,"Breaux, John",Louisiana,D,http://breaux.senate.gov/,gov.senate.www/~breaux,gov.senate.breaux
 brownback,"Brownback, Sam",Kansas,R,http://brownback.senate.gov/,gov.senate.www/~brownback,gov.senate.brownback
 bunning,"Bunning, Jim",Kentucky,R,http://bunning.senate.gov/,gov.senate.www/~bunning,gov.senate.bunning
-burns,"Burns, Conrad",,,http://www.senate.gov/~burns/,gov.senate.www/~burns,gov.senate.burns
-burns,"Burns, Max",,,http://www.house.gov/burns/,gov.senate.www/~burns,gov.senate.burns
-byrd,"Byrd, Robert C.",,,http://byrd.senate.gov/,gov.senate.www/~byrd,gov.senate.byrd
+burns,"Burns, Conrad",Montana,R,http://www.senate.gov/~burns/,gov.senate.www/~burns,gov.senate.burns
+burns,"Burns, Max",Georgia,R,http://www.house.gov/burns/,gov.senate.www/~burns,gov.senate.burns,house
+byrd,"Byrd, Robert C.",West Virginia,D,http://byrd.senate.gov/,gov.senate.www/~byrd,gov.senate.byrd
 campbell,"Campbell, Ben Nighthorse",Colorado,R,http://campbell.senate.gov/,,
-cantwell,"Cantwell, Maria",,,http://cantwell.senate.gov/,gov.senate.cantwell,
+cantwell,"Cantwell, Maria",Washington,D,http://cantwell.senate.gov/,gov.senate.cantwell,
 carper,"Carper, Thomas",Delaware,D,http://carper.senate.gov/,gov.senate.carper,gov.senate.www/~carper
-chafee,"Chafee, Lincoln D.",,,http://chafee.senate.gov/,,
+chafee,"Chafee, Lincoln D.",Rhode Island,D,http://chafee.senate.gov/,,
 chambliss,"Chambliss, Saxby",Georgia,R,http://chambliss.senate.gov/,,
-clinton,"Clinton, Hillary Rodham",,,http://clinton.senate.gov/,gov.senate.clinton,gov.senate.www/~clinton
-cochran,"Cochran, Thad",,,http://cochran.senate.gov/,gov.senate.www/~cochran,gov.senate.cochran
-coleman,"Coleman, Norm",,,http://coleman.senate.gov,,
-collins,"Collins, Susan",,,http://collins.senate.gov/,gov.senate.www/~collins,gov.senate.collins
-conrad,"Conrad, Kent",,,http://conrad.senate.gov/,gov.senate.conrad,gov.senate.www/~conrad
-cornyn,"Cornyn, John",,,http://cornyn.senate.gov/,gov.senate.www/~cornyn,gov.senate.cornyn
-corzine,"Corzine, Jon S.",,,http://corzine.senate.gov/,gov.senate.www/~corzine,gov.senate.corzine
+clinton,"Clinton, Hillary Rodham",New York,D,http://clinton.senate.gov/,gov.senate.clinton,gov.senate.www/~clinton
+cochran,"Cochran, Thad",Mississippi,R,http://cochran.senate.gov/,gov.senate.www/~cochran,gov.senate.cochran
+coleman,"Coleman, Norm",Minnesota,R,http://coleman.senate.gov,,
+collins,"Collins, Susan",Maine,R,http://collins.senate.gov/,gov.senate.www/~collins,gov.senate.collins
+conrad,"Conrad, Kent",North Dakota,D,http://conrad.senate.gov/,gov.senate.conrad,gov.senate.www/~conrad
+cornyn,"Cornyn, John",Texas,R,http://cornyn.senate.gov/,gov.senate.www/~cornyn,gov.senate.cornyn
+corzine,"Corzine, Jon S.",New Jersey,D,http://corzine.senate.gov/,gov.senate.www/~corzine,gov.senate.corzine
 craig,"Craig, Larry",Idaho,R,http://craig.senate.gov/,gov.senate.www/~craig,gov.senate.craig
 crapo,"Crapo, Mike",Idaho,R,http://crapo.senate.gov/,gov.senate.www/~crapo,gov.senate.crapo
-daschle,"Daschle, Tom",,,http://daschle.senate.gov/,gov.senate.daschle,
+daschle,"Daschle, Tom",South Dakota,D,http://daschle.senate.gov/,gov.senate.daschle,
 dayton,"Dayton, Mark",,,http://dayton.senate.gov/,gov.senate.www/~dayton,gov.senate.dayton/~dayton
 dewine,"DeWine, Mike",,,http://dewine.senate.gov/,gov.senate.www/~dewine,gov.senate.dewine
 dodd,"Dodd, Chris",Connecticut,D,http://dodd.senate.gov/,gov.senate.www/~dodd,gov.senate.dodd
