@@ -1,4 +1,4 @@
-short id,full name,state,party,canonical URL,url1,url2
+short id,full name,state,party,canonical URL,url1,url2,house
 akaka,"Akaka, Daniel Kahikina",Hawaii,D,http://akaka.senate.gov/,gov.senate.www/~akaka,gov.senate.akaka
 alexander,"Alexander, Lamar",Tennessee,R,http://alexander.senate.gov/,gov.senate.alexander,
 allard,"Allard, Wayne",Colorado,R,http://allard.senate.gov/,gov.senate.www/~allard,gov.senate.allard
