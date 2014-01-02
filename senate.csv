@@ -1,100 +1,100 @@
-short id,full name,state,party,canonical URL,url1,url2,house
-akaka,"Akaka, Daniel Kahikina",Hawaii,D,http://akaka.senate.gov/,gov.senate.www/~akaka,gov.senate.akaka
-alexander,"Alexander, Lamar",Tennessee,R,http://alexander.senate.gov/,gov.senate.alexander,
-allard,"Allard, Wayne",Colorado,R,http://allard.senate.gov/,gov.senate.www/~allard,gov.senate.allard
-allen,"Allen, George",Virginia,R,http://allen.senate.gov/,gov.senate.www/~allen,gov.senate.allen
-baucus,"Baucus, Max",Montana,D,http://baucus.senate.gov/,gov.senate.baucus,gov.senate.www/~baucus
-bayh,"Bayh, Evan",Indiana,D,http://bayh.senate.gov/index1.html,gov.senate.www/~bayh,gov.senate.bayh
-bennett,"Bennett, Bob",Utah,R,http://bennett.senate.gov/,gov.senate.www/~bennett,gov.senate.bennett
-biden,"Biden, Joseph R.",Delaware,D,http://biden.senate.gov/,gov.senate.www/~biden,gov.senate.biden
-bingaman,"Bingaman, Jeff",New Mexico,D,http://bingaman.senate.gov/,gov.senate.www/~bingaman,gov.senate.bingaman
-bond,"Bond, Christopher S. ""Kit""",Missouri,R,http://bond.senate.gov,gov.senate.bond,
-boxer,"Boxer, Barbara",California,D,http://boxer.senate.gov/,gov.senate.www/~boxer,gov.senate.boxer
-breaux,"Breaux, John",Louisiana,D,http://breaux.senate.gov/,gov.senate.www/~breaux,gov.senate.breaux
-brownback,"Brownback, Sam",Kansas,R,http://brownback.senate.gov/,gov.senate.www/~brownback,gov.senate.brownback
-bunning,"Bunning, Jim",Kentucky,R,http://bunning.senate.gov/,gov.senate.www/~bunning,gov.senate.bunning
-burns,"Burns, Conrad",Montana,R,http://www.senate.gov/~burns/,gov.senate.www/~burns,gov.senate.burns
+short id,full name,state,party,canonical URL,url1,url2,
+akaka,"Akaka, Daniel Kahikina",Hawaii,D,http://akaka.senate.gov/,gov.senate.www/~akaka,gov.senate.akaka,
+alexander,"Alexander, Lamar",Tennessee,R,http://alexander.senate.gov/,gov.senate.alexander,,
+allard,"Allard, Wayne",Colorado,R,http://allard.senate.gov/,gov.senate.www/~allard,gov.senate.allard,
+allen,"Allen, George",Virginia,R,http://allen.senate.gov/,gov.senate.www/~allen,gov.senate.allen,
+baucus,"Baucus, Max",Montana,D,http://baucus.senate.gov/,gov.senate.baucus,gov.senate.www/~baucus,
+bayh,"Bayh, Evan",Indiana,D,http://bayh.senate.gov/index1.html,gov.senate.www/~bayh,gov.senate.bayh,
+bennett,"Bennett, Bob",Utah,R,http://bennett.senate.gov/,gov.senate.www/~bennett,gov.senate.bennett,
+biden,"Biden, Joseph R.",Delaware,D,http://biden.senate.gov/,gov.senate.www/~biden,gov.senate.biden,
+bingaman,"Bingaman, Jeff",New Mexico,D,http://bingaman.senate.gov/,gov.senate.www/~bingaman,gov.senate.bingaman,
+bond,"Bond, Christopher S. ""Kit""",Missouri,R,http://bond.senate.gov,gov.senate.bond,,
+boxer,"Boxer, Barbara",California,D,http://boxer.senate.gov/,gov.senate.www/~boxer,gov.senate.boxer,
+breaux,"Breaux, John",Louisiana,D,http://breaux.senate.gov/,gov.senate.www/~breaux,gov.senate.breaux,
+brownback,"Brownback, Sam",Kansas,R,http://brownback.senate.gov/,gov.senate.www/~brownback,gov.senate.brownback,
+bunning,"Bunning, Jim",Kentucky,R,http://bunning.senate.gov/,gov.senate.www/~bunning,gov.senate.bunning,
+burns,"Burns, Conrad",Montana,R,http://www.senate.gov/~burns/,gov.senate.www/~burns,gov.senate.burns,
 burns,"Burns, Max",Georgia,R,http://www.house.gov/burns/,gov.senate.www/~burns,gov.senate.burns,house
-byrd,"Byrd, Robert C.",West Virginia,D,http://byrd.senate.gov/,gov.senate.www/~byrd,gov.senate.byrd
-campbell,"Campbell, Ben Nighthorse",Colorado,R,http://campbell.senate.gov/,,
-cantwell,"Cantwell, Maria",Washington,D,http://cantwell.senate.gov/,gov.senate.cantwell,
-carper,"Carper, Thomas",Delaware,D,http://carper.senate.gov/,gov.senate.carper,gov.senate.www/~carper
-chafee,"Chafee, Lincoln D.",Rhode Island,D,http://chafee.senate.gov/,,
-chambliss,"Chambliss, Saxby",Georgia,R,http://chambliss.senate.gov/,,
-clinton,"Clinton, Hillary Rodham",New York,D,http://clinton.senate.gov/,gov.senate.clinton,gov.senate.www/~clinton
-cochran,"Cochran, Thad",Mississippi,R,http://cochran.senate.gov/,gov.senate.www/~cochran,gov.senate.cochran
-coleman,"Coleman, Norm",Minnesota,R,http://coleman.senate.gov,,
-collins,"Collins, Susan",Maine,R,http://collins.senate.gov/,gov.senate.www/~collins,gov.senate.collins
-conrad,"Conrad, Kent",North Dakota,D,http://conrad.senate.gov/,gov.senate.conrad,gov.senate.www/~conrad
-cornyn,"Cornyn, John",Texas,R,http://cornyn.senate.gov/,gov.senate.www/~cornyn,gov.senate.cornyn
-corzine,"Corzine, Jon S.",New Jersey,D,http://corzine.senate.gov/,gov.senate.www/~corzine,gov.senate.corzine
-craig,"Craig, Larry",Idaho,R,http://craig.senate.gov/,gov.senate.www/~craig,gov.senate.craig
-crapo,"Crapo, Mike",Idaho,R,http://crapo.senate.gov/,gov.senate.www/~crapo,gov.senate.crapo
-daschle,"Daschle, Tom",South Dakota,D,http://daschle.senate.gov/,gov.senate.daschle,
-dayton,"Dayton, Mark",,,http://dayton.senate.gov/,gov.senate.www/~dayton,gov.senate.dayton/~dayton
-dewine,"DeWine, Mike",,,http://dewine.senate.gov/,gov.senate.www/~dewine,gov.senate.dewine
-dodd,"Dodd, Chris",Connecticut,D,http://dodd.senate.gov/,gov.senate.www/~dodd,gov.senate.dodd
-dole,"Dole, Elizabeth H.",,,http://dole.senate.gov/,gov.senate.www/~dole,gov.senate.dole
-domenici,"Domenici, Pete V.",,,http://domenici.senate.gov/,gov.senate.domenici,gov.senate.www/~domenici
-dorgan,"Dorgan, Byron L.",,,http://dorgan.senate.gov/,gov.senate.www/~dorgan,gov.senate.democrats/~dorgan
-durbin,"Durbin, Dick",Illinois,D,http://durbin.senate.gov/,gov.senate.www/~durbin,gov.senate.durbin
-edwardsjohn,"Edwards, John",,,http://edwards.senate.gov/,gov.senate.www/~edwards,gov.senate.edwards
-ensign,"Ensign, John",,,http://ensign.senate.gov/,gov.senate.www/~ensign,gov.senate.ensign
-enzi,"Enzi, Mike",,,http://enzi.senate.gov/,gov.senate.enzi,
-feingold,"Feingold, Russ",,,http://feingold.senate.gov/,gov.senate.www/~feingold,gov.senate.feingold
-feinstein,"Feinstein, Dianne",California,D,http://feinstein.senate.gov/,gov.senate.www/~feinstein,gov.senate.feinstein
-fitzgerald,"Fitzgerald, Peter G.",Illonois,R,http://fitzgerald.senate.gov/,gov.senate.www/~fitzgerald,gov.senate.fitzgerald
-frist,"Frist, Bill",,,http://frist.senate.gov/,gov.senate.frist,
-graham,"Graham, Bob",Florida,D,http://graham.senate.gov/,gov.senate.www/~graham,gov.senate.lgraham
-grassley,"Grassley, Chuck",Iowa,R,http://grassley.senate.gov/,gov.senate.www/~grassley,gov.senate.grassley
-gregg,"Gregg, Judd",,,http://gregg.senate.gov/,gov.senate.gregg,
-hagel,"Hagel, Chuck",,,http://hagel.senate.gov/,gov.senate.www/~hagel,gov.senate.hagel
-harkin,"Harkin, Tom",Iowa,D,http://harkin.senate.gov/,gov.senate.www/~harkin,gov.senate.harkin
-hatch,"Hatch, Orrin G.",,,http://hatch.senate.gov/,gov.senate.www/~hatch,gov.senate.hatch
-hollings,"Hollings, Ernest Fritz",,,http://hollings.senate.gov/,gov.senate.www/~hollings,gov.senate.hollings
-hutchison,"Hutchison, Kay Bailey",,,http://hutchison.senate.gov/,gov.senate.www/~hutchison,
-inhofe,"Inhofe, James M.",,,http://inhofe.senate.gov/,gov.senate.inhofe,gov.senate.www/~inhofe
-inouye,"Inouye, Daniel K.",Hawaii,D,http://inouye.senate.gov/,gov.senate.inouye,gov.senate.www/~inouye
-jeffords,"Jeffords, Jim",,,http://jeffords.senate.gov/,,
-johnson,"Johnson, Tim",,,http://johnson.senate.gov/,,
-kennedy,"Kennedy, Edward",,,http://kennedy.senate.gov/,gov.senate.kennedy,gov.senate.www/~kennedy
-kerry,"Kerry, John",,,http://kerry.senate.gov/,gov.senate.kerry,gov.senate.www/~kerry
-kohl,"Kohl, Herb",,,http://kohl.senate.gov/,gov.senate.www/~kohl,gov.senate.kohl
-kyl,"Kyl, Jon",Arizona,R,http://kyl.senate.gov/,gov.senate.www/~kyl,gov.senate.kyl
-landrieu,"Landrieu, Mary L.",,,http://landrieu.senate.gov/,gov.senate.landrieu,gov.senate.www/~landrieu
-lautenberg,"Lautenberg, Frank",,,http://lautenberg.senate.gov/,gov.senate.lautenberg,gov.senate.www/~lautenberg
-leahy,"Leahy, Patrick",,,http://leahy.senate.gov/,gov.senate.www/~leahy,gov.senate.leahy
-levin,"Levin, Carl",,,http://levin.senate.gov/,gov.senate.www/~levin,gov.house.www/levin
-levin,"Levin, Sander M.",,,http://house.gov/levin/,gov.senate.www/~levin,gov.house.www/levin
-lieberman,"Lieberman, Joe",Connecticut,D,http://lieberman.senate.gov/,,
-lincoln,"Lincoln, Blanche",Arkansas,D,http://lincoln.senate.gov/,gov.senate.www/~lincoln,gov.senate.lincoln
-lott,"Lott, Trent",,,http://lott.senate.gov/,gov.senate.lott,
-lugar,"Lugar, Richard G.",Indiana,R,http://lugar.senate.gov/,gov.senate.www/~lugar,gov.senate.lugar
-mccain,"McCain, John",Arizona,R,http://mccain.senate.gov/,gov.senate.www/~mccain,gov.senate.mccain
-mcconnell,"McConnell, Mitch",Kentucky,R,http://mcconnell.senate.gov/,gov.senate.www/~mcconnell,gov.senate.mcconnell
-mikulski,"Mikulski, Barbara A.",,,http://mikulski.senate.gov/,gov.senate.www/~mikulski,gov.senate.mikulski
-miller,"Miller, Zell",Geogria,D,http://miller.senate.gov/,gov.senate.www/~miller,gov.senate.miller
-murkowski,"Murkowski, Lisa",Alaska,R,http://murkowski.senate.gov/,gov.senate.murkowski,gov.senate.www/~murkowski
-murray,"Murray, Patty",,,http://murray.senate.gov/,gov.senate.www/~murray,gov.senate.murray
-bennelson,"Nelson, Ben",,,http://bennelson.senate.gov/,gov.senate.www/~bennelson,gov.senate.bennelson
-billnelson,"Nelson, Bill",Florida,D,http://billnelson.senate.gov/,gov.senate.billnelson,gov.senate.www/~billnelson
-nickles,"Nickles, Don",,,http://nickles.senate.gov/,gov.senate.www/~nickles,gov.senate.nickles
-pryor,"Pryor, Mark",Arkansas,D,http://pryor.senate.gov,gov.senate.www/~pryor,gov.senate.pryor
-reid,"Reid, Harry",,,http://reid.senate.gov/,gov.senate.www/~reid,gov.senate.reid
-roberts,"Roberts, Pat",Kansas,R,http://roberts.senate.gov/,gov.senate.www/~roberts,gov.senate.roberts
-rockefeller,"Rockefeller, Jay",,,http://rockefeller.senate.gov/,gov.senate.rockefeller,gov.senate.www/~rockefeller
-santorum,"Santorum, Rick",,,http://santorum.senate.gov/,gov.senate.santorum,
-sarbanes,"Sarbanes, Paul S.",,,http://sarbanes.senate.gov/,gov.senate.www/~sarbanes,gov.senate.sarbanes
-schumer,"Schumer, Charles E.",,,http://schumer.senate.gov/,gov.senate.www/~schumer,gov.senate.schumer
-sessionsjeff,"Sessions, Jeff",,,http://sessions.senate.gov/,gov.senate.sessions,
-shelby,"Shelby, Richard C.",Alabama,R,http://shelby.senate.gov/,gov.senate.www/~shelby,gov.senate.shelby
-gsmith,"Smith, Gordon H.",Alabama,R,http://gsmith.senate.gov/,gov.senate.www/~gsmith,gov.senate.gsmith
-snowe,"Snowe, Olympia J.",,,http://snowe.senate.gov/,gov.senate.www/~snowe,gov.senate.snowe
-specter,"Specter, Arlen",,,http://www.senate.gov/~specter/,gov.senate.www/~specter,gov.senate.specter
-stabenow,"Stabenow, Debbie",,,http://stabenow.senate.gov/,gov.senate.stabenow,
-stevens,"Stevens, Ted",Alaska,R,http://stevens.senate.gov/,gov.senate.www/~stevens,gov.senate.stevens
-talent,"Talent, James",,,http://talent.senate.gov/,gov.senate.talent,
-thomas,"Thomas, Craig",,,http://thomas.senate.gov/,gov.senate.www/~thomas,gov.senate.thomas
-voinovich,"Voinovich, George V.",,,http://voinovich.senate.gov/,gov.senate.www/~voinovich,gov.senate.voinovich
-warner,"Warner, John",,,http://warner.senate.gov/,gov.senate.www/~warner,gov.senate.warner
-wyden,"Wyden, Ron",,,http://wyden.senate.gov/,gov.senate.wyden,gov.senate.www/~wyden
+byrd,"Byrd, Robert C.",West Virginia,D,http://byrd.senate.gov/,gov.senate.www/~byrd,gov.senate.byrd,
+campbell,"Campbell, Ben Nighthorse",Colorado,R,http://campbell.senate.gov/,,,
+cantwell,"Cantwell, Maria",Washington,D,http://cantwell.senate.gov/,gov.senate.cantwell,,
+carper,"Carper, Thomas",Delaware,D,http://carper.senate.gov/,gov.senate.carper,gov.senate.www/~carper,
+chafee,"Chafee, Lincoln D.",Rhode Island,D,http://chafee.senate.gov/,,,
+chambliss,"Chambliss, Saxby",Georgia,R,http://chambliss.senate.gov/,,,
+clinton,"Clinton, Hillary Rodham",New York,D,http://clinton.senate.gov/,gov.senate.clinton,gov.senate.www/~clinton,
+cochran,"Cochran, Thad",Mississippi,R,http://cochran.senate.gov/,gov.senate.www/~cochran,gov.senate.cochran,
+coleman,"Coleman, Norm",Minnesota,R,http://coleman.senate.gov,,,
+collins,"Collins, Susan",Maine,R,http://collins.senate.gov/,gov.senate.www/~collins,gov.senate.collins,
+conrad,"Conrad, Kent",North Dakota,D,http://conrad.senate.gov/,gov.senate.conrad,gov.senate.www/~conrad,
+cornyn,"Cornyn, John",Texas,R,http://cornyn.senate.gov/,gov.senate.www/~cornyn,gov.senate.cornyn,
+corzine,"Corzine, Jon S.",New Jersey,D,http://corzine.senate.gov/,gov.senate.www/~corzine,gov.senate.corzine,
+craig,"Craig, Larry",Idaho,R,http://craig.senate.gov/,gov.senate.www/~craig,gov.senate.craig,
+crapo,"Crapo, Mike",Idaho,R,http://crapo.senate.gov/,gov.senate.www/~crapo,gov.senate.crapo,
+daschle,"Daschle, Tom",South Dakota,D,http://daschle.senate.gov/,gov.senate.daschle,,
+dayton,"Dayton, Mark",Minnesota,D,http://dayton.senate.gov/,gov.senate.www/~dayton,gov.senate.dayton/~dayton,
+dewine,"DeWine, Mike",Ohio,R,http://dewine.senate.gov/,gov.senate.www/~dewine,gov.senate.dewine,
+dodd,"Dodd, Chris",Connecticut,D,http://dodd.senate.gov/,gov.senate.www/~dodd,gov.senate.dodd,
+dole,"Dole, Elizabeth H.",North Carolina,R,http://dole.senate.gov/,gov.senate.www/~dole,gov.senate.dole,
+domenici,"Domenici, Pete V.",New Mexico,R,http://domenici.senate.gov/,gov.senate.domenici,gov.senate.www/~domenici,
+dorgan,"Dorgan, Byron L.",North Dakota,D,http://dorgan.senate.gov/,gov.senate.www/~dorgan,gov.senate.democrats/~dorgan,
+durbin,"Durbin, Dick",Illinois,D,http://durbin.senate.gov/,gov.senate.www/~durbin,gov.senate.durbin,
+edwardsjohn,"Edwards, John",North Carolina,D,http://edwards.senate.gov/,gov.senate.www/~edwards,gov.senate.edwards,
+ensign,"Ensign, John",Nevada,R,http://ensign.senate.gov/,gov.senate.www/~ensign,gov.senate.ensign,
+enzi,"Enzi, Mike",Wyoming,R,http://enzi.senate.gov/,gov.senate.enzi,,
+feingold,"Feingold, Russ",Wisconsin,D,http://feingold.senate.gov/,gov.senate.www/~feingold,gov.senate.feingold,
+feinstein,"Feinstein, Dianne",California,D,http://feinstein.senate.gov/,gov.senate.www/~feinstein,gov.senate.feinstein,
+fitzgerald,"Fitzgerald, Peter G.",Illonois,R,http://fitzgerald.senate.gov/,gov.senate.www/~fitzgerald,gov.senate.fitzgerald,
+frist,"Frist, Bill",Tennessee,R,http://frist.senate.gov/,gov.senate.frist,,
+graham,"Graham, Bob",Florida,D,http://graham.senate.gov/,gov.senate.www/~graham,gov.senate.lgraham,
+grassley,"Grassley, Chuck",Iowa,R,http://grassley.senate.gov/,gov.senate.www/~grassley,gov.senate.grassley,
+gregg,"Gregg, Judd",New Hampshire,R,http://gregg.senate.gov/,gov.senate.gregg,,
+hagel,"Hagel, Chuck",Nebraska,R,http://hagel.senate.gov/,gov.senate.www/~hagel,gov.senate.hagel,
+harkin,"Harkin, Tom",Iowa,D,http://harkin.senate.gov/,gov.senate.www/~harkin,gov.senate.harkin,
+hatch,"Hatch, Orrin G.",Utah,R,http://hatch.senate.gov/,gov.senate.www/~hatch,gov.senate.hatch,
+hollings,"Hollings, Ernest Fritz",South Carolina,D,http://hollings.senate.gov/,gov.senate.www/~hollings,gov.senate.hollings,
+hutchison,"Hutchison, Kay Bailey",Texas,R,http://hutchison.senate.gov/,gov.senate.www/~hutchison,,
+inhofe,"Inhofe, James M.",Oklahoma,R,http://inhofe.senate.gov/,gov.senate.inhofe,gov.senate.www/~inhofe,
+inouye,"Inouye, Daniel K.",Hawaii,D,http://inouye.senate.gov/,gov.senate.inouye,gov.senate.www/~inouye,
+jeffords,"Jeffords, Jim",Vermont,R,http://jeffords.senate.gov/,,,
+johnson,"Johnson, Tim",South Dakota,D,http://johnson.senate.gov/,,,
+kennedy,"Kennedy, Edward",Massachusetts,D,http://kennedy.senate.gov/,gov.senate.kennedy,gov.senate.www/~kennedy,
+kerry,"Kerry, John",Massachusetts,D,http://kerry.senate.gov/,gov.senate.kerry,gov.senate.www/~kerry,
+kohl,"Kohl, Herb",Wisconsin,D,http://kohl.senate.gov/,gov.senate.www/~kohl,gov.senate.kohl,
+kyl,"Kyl, Jon",Arizona,R,http://kyl.senate.gov/,gov.senate.www/~kyl,gov.senate.kyl,
+landrieu,"Landrieu, Mary L.",Louisiana,D,http://landrieu.senate.gov/,gov.senate.landrieu,gov.senate.www/~landrieu,
+lautenberg,"Lautenberg, Frank","Leahy, Patrick",D,http://lautenberg.senate.gov/,gov.senate.lautenberg,gov.senate.www/~lautenberg,
+leahy,"Leahy, Patrick",Vermont,D,http://leahy.senate.gov/,gov.senate.www/~leahy,gov.senate.leahy,
+levin,"Levin, Carl",Michigan,D,http://levin.senate.gov/,gov.senate.www/~levin,gov.house.www/levin,
+levin,"Levin, Sander M.",Michigan,D,http://house.gov/levin/,gov.senate.www/~levin,gov.house.www/levin,
+lieberman,"Lieberman, Joe",Connecticut,D,http://lieberman.senate.gov/,,,
+lincoln,"Lincoln, Blanche",Arkansas,D,http://lincoln.senate.gov/,gov.senate.www/~lincoln,gov.senate.lincoln,
+lott,"Lott, Trent",Mississippi,R,http://lott.senate.gov/,gov.senate.lott,,
+lugar,"Lugar, Richard G.",Indiana,R,http://lugar.senate.gov/,gov.senate.www/~lugar,gov.senate.lugar,
+mccain,"McCain, John",Arizona,R,http://mccain.senate.gov/,gov.senate.www/~mccain,gov.senate.mccain,
+mcconnell,"McConnell, Mitch",Kentucky,R,http://mcconnell.senate.gov/,gov.senate.www/~mcconnell,gov.senate.mcconnell,
+mikulski,"Mikulski, Barbara A.",Maryland,D,http://mikulski.senate.gov/,gov.senate.www/~mikulski,gov.senate.mikulski,
+miller,"Miller, Zell",Geogria,D,http://miller.senate.gov/,gov.senate.www/~miller,gov.senate.miller,
+murkowski,"Murkowski, Lisa",Alaska,R,http://murkowski.senate.gov/,gov.senate.murkowski,gov.senate.www/~murkowski,
+murray,"Murray, Patty",Washington,D,http://murray.senate.gov/,gov.senate.www/~murray,gov.senate.murray,
+bennelson,"Nelson, Ben",Nebraska,D,http://bennelson.senate.gov/,gov.senate.www/~bennelson,gov.senate.bennelson,
+billnelson,"Nelson, Bill",Florida,D,http://billnelson.senate.gov/,gov.senate.billnelson,gov.senate.www/~billnelson,
+nickles,"Nickles, Don",Oklahoma,R,http://nickles.senate.gov/,gov.senate.www/~nickles,gov.senate.nickles,
+pryor,"Pryor, Mark",Arkansas,D,http://pryor.senate.gov,gov.senate.www/~pryor,gov.senate.pryor,
+reid,"Reid, Harry",Nevada,D,http://reid.senate.gov/,gov.senate.www/~reid,gov.senate.reid,
+roberts,"Roberts, Pat",Kansas,R,http://roberts.senate.gov/,gov.senate.www/~roberts,gov.senate.roberts,
+rockefeller,"Rockefeller, Jay",West Virginia,D,http://rockefeller.senate.gov/,gov.senate.rockefeller,gov.senate.www/~rockefeller,
+santorum,"Santorum, Rick",Pennsylvania,R,http://santorum.senate.gov/,gov.senate.santorum,,
+sarbanes,"Sarbanes, Paul S.","Schumer, Charles E.",D,http://sarbanes.senate.gov/,gov.senate.www/~sarbanes,gov.senate.sarbanes,
+schumer,"Schumer, Charles E.",New York,D,http://schumer.senate.gov/,gov.senate.www/~schumer,gov.senate.schumer,
+sessionsjeff,"Sessions, Jeff",Alabama,R,http://sessions.senate.gov/,gov.senate.sessions,,
+shelby,"Shelby, Richard C.",Alabama,R,http://shelby.senate.gov/,gov.senate.www/~shelby,gov.senate.shelby,
+gsmith,"Smith, Gordon H.",Alabama,R,http://gsmith.senate.gov/,gov.senate.www/~gsmith,gov.senate.gsmith,
+snowe,"Snowe, Olympia J.",Maine,R,http://snowe.senate.gov/,gov.senate.www/~snowe,gov.senate.snowe,
+specter,"Specter, Arlen",Pennsylvania,D,http://www.senate.gov/~specter/,gov.senate.www/~specter,gov.senate.specter,
+stabenow,"Stabenow, Debbie",Michigan,D,http://stabenow.senate.gov/,gov.senate.stabenow,,
+stevens,"Stevens, Ted",Alaska,R,http://stevens.senate.gov/,gov.senate.www/~stevens,gov.senate.stevens,
+talent,"Talent, James",Missouri,R,http://talent.senate.gov/,gov.senate.talent,,
+thomas,"Thomas, Craig",Wyoming,R,http://thomas.senate.gov/,gov.senate.www/~thomas,gov.senate.thomas,
+voinovich,"Voinovich, George V.",Ohio,R,http://voinovich.senate.gov/,gov.senate.www/~voinovich,gov.senate.voinovich,
+warner,"Warner, John",Virginia,R,http://warner.senate.gov/,gov.senate.www/~warner,gov.senate.warner,
+wyden,"Wyden, Ron",Oregon,D,http://wyden.senate.gov/,gov.senate.wyden,gov.senate.www/~wyden,
